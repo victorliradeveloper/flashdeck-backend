@@ -1,13 +1,13 @@
-package com.sonoraai;
+package com.flashcards;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SonoraaiApplication {
+public class FlashcardsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SonoraaiApplication.class, args);
+		SpringApplication.run(FlashcardsApplication.class, args);
 	}
 
 }
