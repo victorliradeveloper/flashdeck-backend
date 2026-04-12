@@ -1,3 +1,7 @@
+<p align="start"> 
+  <img width="400" src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,redis&theme=dark" alt=" ">
+</p>
+
 # ProfitAI - Backend
 
 ## 🚀 Tecnologias
